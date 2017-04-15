@@ -23,8 +23,8 @@ J'ai par la suite décidé d'ajouter d'autres fonctionnalités:
     
     - La possibilité de changer de ville, la recherche se fait en trois étapes:
     
-        - Lorsque l'utilisateur clique sur Météo, une zone de texte apparaît l'invitant à indiquer le pays (ou l'état pous les USA) où se situe la 
-          ville à rechercher
+        - Lorsque l'utilisateur clique sur Météo, une zone de texte apparaît l'invitant à indiquer le pays 
+          (ou l'état pous les USA) où se situe la ville à rechercher
     
         - Lorsque l'utilisatuer valide son choix, il est invité à indiquer la ville
     
