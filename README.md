@@ -38,6 +38,10 @@ J'ai par la suite décidé d'ajouter d'autres fonctionnalités:
 
 Bugs connus : Le bouton pour switcher entre °C et °F ne fonctionne pas, TOUTE AIDE SERAIT LA BIENVENUE ! J'ai cherché mais je ne comprends définitivement pas pourquoi...
 
+N'hésitez pas à me faire part d'autres bugs ou améliorations possibles du code source, je suis encore débutant et je sais que mon code est loin d'être parfait!
+
+Vous pouvez également me faire part de fonctionnalités qui pourraient être ajoutées, même si j'en ai déjà quelques unes en préparation...
+
 
           M1ROH
           
